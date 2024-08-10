@@ -5,30 +5,30 @@ A prototype mobile app for EchelonElite, designed with React Native and develope
 <p>The EchelonElite prototype is a React Native application developed to showcase various features and user interface elements as part of a portfolio project. This prototype was developed using Expo Snack, which allowed for rapid development and testing across multiple devices without the need for a complex setup.</p>
 
 <h3>Key Features</h3>
-Home Screen: A welcoming screen with a dynamic background image that sets the tone for the app, featuring a call-to-action button to view quests.
+<p>Home Screen: A welcoming screen with a dynamic background image that sets the tone for the app, featuring a call-to-action button to view quests.</p>
 
-Quests Screen: Displays a list of quests categorized by difficulty, duration, and category. Includes sorting functionality to help users filter and find quests that match their interests.
+<p>Quests Screen: Displays a list of quests categorized by difficulty, duration, and category. Includes sorting functionality to help users filter and find quests that match their interests.</p>
 
-Character Customization: Allows users to customize their character, including changing levels and roles, enhancing user engagement through personalization.
+<p>Character Customization: Allows users to customize their character, including changing levels and roles, enhancing user engagement through personalization.</p>
 
-Community Screen: Connects users with the broader community through options like viewing leaderboards, joining guilds, participating in cooperative challenges, and engaging in community forums.
+<p>Community Screen: Connects users with the broader community through options like viewing leaderboards, joining guilds, participating in cooperative challenges, and engaging in community forums.</p>
 
-Settings Screen: Provides users with options to manage account settings and notifications, ensuring a user-friendly experience that aligns with their preferences.
+<p>Settings Screen: Provides users with options to manage account settings and notifications, ensuring a user-friendly experience that aligns with their preferences.</p>
 
-Dynamic Storytelling: The app features interactive quests that adapt based on user choices, creating a personalized experience with branching storylines.
+<p>Dynamic Storytelling: The app features interactive quests that adapt based on user choices, creating a personalized experience with branching storylines.</p>
 
-Development Environment
-Expo Snack: Utilized for its ease of use, real-time collaboration, and the ability to test the app on mobile devices without the need for a full development environment.
-Installation
-To run the prototype locally:
+<h3>Development Environment</h3>
+<p>Expo Snack: Utilized for its ease of use, real-time collaboration, and the ability to test the app on mobile devices without the need for a full development environment.</p>
+<p>Installation</p>
+<p>To run the prototype locally:</p>
 
-Clone the repository: git clone https://github.com/yourusername/echelonelite-prototype.git
+Clone the repository: git clone https://github.com/yourusername/echelonelite-prototype.
 Install dependencies: npm install
 Start the development server: npm start
 You can also view the app directly on Expo Snack through the following link: Expo Snack Project
 
-How to Use
-Navigation: The app uses a bottom tab navigator for easy access to all screens.
+<h3>How to Use</h3>
+<b>Navigation:</b> The app uses a bottom tab navigator for easy access to all screens.
 Customization: Users can explore and customize various features like quests, character settings, and more.
 Interaction: Engage with the app's dynamic storytelling through interactive quest screens.
 Future Enhancements
