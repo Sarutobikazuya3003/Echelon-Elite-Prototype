@@ -1,7 +1,7 @@
-# Echelon-Elite-Prototype
+<h1>Echelon-Elite-Prototype</h1>
 A prototype mobile app for EchelonElite, designed with React Native and developed using Expo Snack, showcasing features like customizable quests, social collaboration, and dynamic storytelling.
 
-<h1>Overview</h1>
+<h2>Overview</h2>
 <p>The EchelonElite prototype is a React Native application developed to showcase various features and user interface elements as part of a portfolio project. This prototype was developed using Expo Snack, which allowed for rapid development and testing across multiple devices without the need for a complex setup.</p>
 
 Key Features
