@@ -6,7 +6,7 @@ A prototype mobile app for EchelonElite, designed with React Native and develope
 
 <h3>Key Features</h3>
 <p>Home Screen: A welcoming screen with a dynamic background image that sets the tone for the app, featuring a call-to-action button to view quests.</p>
-<b></b>
+
 Quests Screen: Displays a list of quests categorized by difficulty, duration, and category. Includes sorting functionality to help users filter and find quests that match their interests.
 
 Character Customization: Allows users to customize their character, including changing levels and roles, enhancing user engagement through personalization.
