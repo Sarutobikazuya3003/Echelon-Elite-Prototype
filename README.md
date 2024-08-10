@@ -4,9 +4,9 @@ A prototype mobile app for EchelonElite, designed with React Native and develope
 <h2>Overview</h2>
 <p>The EchelonElite prototype is a React Native application developed to showcase various features and user interface elements as part of a portfolio project. This prototype was developed using Expo Snack, which allowed for rapid development and testing across multiple devices without the need for a complex setup.</p>
 
-Key Features
-Home Screen: A welcoming screen with a dynamic background image that sets the tone for the app, featuring a call-to-action button to view quests.
-
+<h3>Key Features</h3>
+<p>Home Screen: A welcoming screen with a dynamic background image that sets the tone for the app, featuring a call-to-action button to view quests.</p>
+<b></b>
 Quests Screen: Displays a list of quests categorized by difficulty, duration, and category. Includes sorting functionality to help users filter and find quests that match their interests.
 
 Character Customization: Allows users to customize their character, including changing levels and roles, enhancing user engagement through personalization.
