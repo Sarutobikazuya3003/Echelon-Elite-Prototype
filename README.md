@@ -4,7 +4,7 @@ A prototype mobile app for EchelonElite, designed with React Native and develope
 <h2>Overview</h2>
 <p>The EchelonElite prototype is a React Native application developed to showcase various features and user interface elements as part of a portfolio project. This prototype was developed using Expo Snack, which allowed for rapid development and testing across multiple devices without the need for a complex setup.</p>
 
-<h3>Key Features</h3>
+<h2>Key Features</h2>
 <p><b>Home Screen:</b> A welcoming screen with a dynamic background image that sets the tone for the app, featuring a call-to-action button to view quests.</p>
 
 <p><b>Quests Screen:</b> Displays a list of quests categorized by difficulty, duration, and category. Includes sorting functionality to help users filter and find quests that match their interests.</p>
@@ -17,22 +17,22 @@ A prototype mobile app for EchelonElite, designed with React Native and develope
 
 <p><b>Dynamic Storytelling:</b> The app features interactive quests that adapt based on user choices, creating a personalized experience with branching storylines.</p>
 
-<h3>Development Environment</h3>
+<h2>Development Environment</h2>
 <p><b>Expo Snack:</b> Utilized for its ease of use, real-time collaboration, and the ability to test the app on mobile devices without the need for a full development environment.</p>
 
-<p><h4>Installation</h4></p>
+<p><h3>Installation</h3></p>
 <p>To run the prototype locally:</p>
 
 <p><b>Clone the repository:</b> git clone https://github.com/yourusername/echelonelite-prototype.</p>
 <p><b>Install dependencies:</b> npm install</p>
 <p><b>Start the development server:</b> npm start</p>
 
-<h3>How to Use</h3>
+<h2>How to Use</h2>
 <p><b>Navigation:</b> The app uses a bottom tab navigator for easy access to all screens.</p>
 <p><b>Customization:</b> Users can explore and customize various features like quests, character settings, and more.</p>
 <p><b>Interaction:</b> Engage with the app's dynamic storytelling through interactive quest screens.</p>
 
-<h3>Future Enhancements</h3>
+<h2>Future Enhancements</h2>
 <p><b>Backend Integration:</b> Adding a backend to store user data and enable real-time interactions.</p>
 <p><b>Additional Features:</b> Expanding the scope of cooperative challenges and community engagement.</p>
 
